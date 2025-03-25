@@ -1,5 +1,5 @@
 # Contexto
-La cafetería "CityBlend", ubicada en Nueva York, cuenta con tres sucrusales distintas. Para comprender su funcionamiento operativo, se han recopilado los datos sobre las transacciones realizadas durante seis meses consecutivos, de enero a junio. Para comprender el funcionamiento operativo de la cafetería "CityBlend", se han recopilado datos sobre las transacciones realizadas durante seis meses consecutivos, de enero a junio. Este análisis permitirá obtener una visión más clara del comportamiento general del negocio.
+Para comprender mejor el funcionamiento operativo de la cafetería "CityBlend", ubicada en Nueva York, se han recopilado datos sobre las transacciones realizadas durante seis meses consecutivos, desde enero hasta junio. La cafetería cuenta con tres sucursales distintas, y este análisis nos permitirá obtener una visión más clara del comportamiento general del negocio.
 ## Objetivos
 **Transformar y visualizar los datos** de manera que permita a los propietarios de la cafetería analizar patrones y detectar oportunidades de mejora para el negocio a partir de los datos recopilados.
 ### Análisis Final
