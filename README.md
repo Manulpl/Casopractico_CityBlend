@@ -5,7 +5,7 @@ Para comprender mejor el funcionamiento operativo de la cafetería "CityBlend", 
 ### Análisis Final
 1) Hubo un aumento de las transacciones realizadas hacia los meses de primavera y verano, mientras que en invierno (enero y feberero) fueron los meses con transacciones más bajas.
 2) Las categorías de productos más consumidos son las bebidas, en concreto el café y el té.
-3) En general, habría que reforzar los productos de alimentos que se ofrecen, como la panadería en general o el chocolate empaquetado, que suelen ser productos menos solicitados.
+3) En general, habría que reforzar los productos de alimentos que se ofrecen, como la panadería o el chocolate empaquetado, que suelen ser productos menos solicitados.
 #### Gráficos 
 ![image](https://github.com/user-attachments/assets/35806aa9-0b75-4fcd-801b-a810723ec2f8)
 ![image](https://github.com/user-attachments/assets/1834c69c-b2b3-45c8-b407-2567a94933f3)
